@@ -1,0 +1,55 @@
+body {
+    background-color: darkolivegreen;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+#main {
+    margin-bottom: 3rem;
+
+}
+
+#question {
+    width: 75%;
+    font-size: 1.5em;
+    appearnce: none;
+    border: none;
+    padding: 0.5em;
+    color: #666;
+    font-weight: 300;
+    margin-bottom: 2rem;
+}
+
+.ask {
+    position: relative;
+    width: 10%;
+    font-size: 1.5em;
+    appearance: none;
+    border: none;
+    padding: 0.5em 0.25em;
+    margin-left: -5px;
+    background-color: #f7a217;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 100;
+    transition: all 0.25s ease;
+
+}
+
+.ask:hover {
+    background-color: #fcb034;
+}
+
+#h3 {
+
+    text-align: center;
+    font-size: 3.5rem;
+}
